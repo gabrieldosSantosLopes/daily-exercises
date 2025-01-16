@@ -2,6 +2,7 @@
 
 int main() {
 
+    // use for quando voce sabe o numero de repeticoes
     for (int i = 0; i <= 5; i++) {
 
         printf("%d ", i);

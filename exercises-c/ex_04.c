@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+// em C vc deve definir nao somente a variavel, mais tambvem como ela sera exibida
 int main() {
 
     int a = 10, b = 3;
